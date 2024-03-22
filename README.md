@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! I am Muhammad Subhan & I'm a web developer.</h2>
+<h2 align="left">Hi 👋! I am Muhammad Subhan & I'm a passionate programmer.</h2>
+
+##### My CV: [CV](https://drive.google.com/file/d/1AAQIYeqZUr76dA_Sm1Bxv0De2Gex3bEI/view?usp=sharing)
 
 ###
 
@@ -6,6 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ms1034&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms1034&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+###
+
+<p align="left">Web Development Expertise</p>
 
 ###
 
@@ -57,6 +62,10 @@
 
 ###
 
+<p align="left">Python Expertise</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -75,6 +84,10 @@
 
 ###
 
+<p align="left">C# Expertise</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -89,6 +102,10 @@
 
 ###
 
+<p align="left">Mobile Development Experties</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -98,6 +115,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
+
+###
+
+<p align="left">Proficient in these technologies</p>
 
 ###
 
@@ -125,7 +146,7 @@
 
 ###
 
-<p align="left">Reach Me</p>
+<p align="left">Connect</p>
 
 ###
 
@@ -134,19 +155,36 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="32" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="32" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="32" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="48" height="32" alt="codesandbox logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="48" height="32" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="48" height="32" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="32" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="48" height="32" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="32" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="32" alt="slack logo"  />
+  <a href="https://www.linkedin.com/in/muhammad-subhan-suleman-1122321b6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:hoco1092@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="32" alt="slack logo"  />
+  </a>
+      </a>
+     <a href="https://www.fiverr.com/seller_dashboard" target="_blank">
+    <img src="https://res.cloudinary.com/dexdwrwsa/image/upload/v1711106467/vecteezy_fiverr-logo-icon-online-platform-for-freelancers_25732716_izfksk.jpg" width="48" height="32" alt="fiverr logo"  />
+  </a>
+  <a href="https://muhammad-subhan.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dexdwrwsa/image/upload/v1711106775/web_3059997_kop4lq.png" width="48" height="32" alt="portfolio logo"  />
+  </a>
+  <a href="mailto:hoco1092@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCGQ-z8inj6gaf8KPu6xdw7Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="32" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@hoco1092" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="48" height="32" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/20796630/user20796630" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="32" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://dev.to/ms1034" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="48" height="32" alt="devto logo"  />
+  </a>
 </div>
+
 
 ###
 
@@ -154,10 +192,3 @@
 
 <img src="https://raw.githubusercontent.com/ms1034/ms1034/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@ms1034" alt="Layout with last medium posts"  />
-</div>
-
-###
