@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I am Muhammad Subhan & I'm a passionate programmer.</h2>
- <p align="left">My CV: [CV](https://drive.google.com/file/d/1AAQIYeqZUr76dA_Sm1Bxv0De2Gex3bEI/view?usp=sharing)</p>
+ <p align="left">My CV: </p>[CV](https://drive.google.com/file/d/1AAQIYeqZUr76dA_Sm1Bxv0De2Gex3bEI/view?usp=sharing)
 
 ###
 <div align="center">
