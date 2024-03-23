@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/muhammad-subhan-suleman-1122321b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hoco1092@gmail.com" target="_blank">
+  <a href="mailto:sbse1034@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="32" alt="slack logo"  />
   </a>
       </a>
