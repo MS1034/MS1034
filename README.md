@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="48" height="32" alt="slack logo"  />
   </a>
       </a>
-     <a href="https://www.fiverr.com/seller_dashboard" target="_blank">
+     <a href="https://www.fiverr.com/hoco1092" target="_blank">
     <img src="https://res.cloudinary.com/dexdwrwsa/image/upload/v1711106467/vecteezy_fiverr-logo-icon-online-platform-for-freelancers_25732716_izfksk.jpg" width="48" height="32" alt="fiverr logo"  />
   </a>
   <a href="https://muhammad-subhan.vercel.app/" target="_blank">
