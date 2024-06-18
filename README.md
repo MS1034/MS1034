@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Dev Card</h3>
-<a href="https://app.daily.dev/muhammadsubhan"><img src="https://api.daily.dev/devcards/v2/Thaey8hQKXafIWtcyr6ew.png?r=g5z&type=wide" width="652" alt="Muhammad Subhan's Dev Card"/></a>
+<a href="https://app.daily.dev/muhammadsubhan"><img src="https://github.com/MS1034/MS1034/blob/main/devcard.svg" width="652" alt="Muhammad Subhan's Dev Card"/></a>
 
 
 <h3 align="left">Get in Touch</h3>
