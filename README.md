@@ -8,11 +8,9 @@
 </div>
 
 
-<h3 align="left">Dev Card</h3>
-<a href="https://app.daily.dev/muhammadsubhan"><img src="./devcard.png" width="356" alt="Muhammad Subhan's Dev Card"/></a>
+<h3 align="left">Get in TOuch</h3>
 
 
-<h3 align="left">Get in Touch</h3>
 
 ###
 
@@ -196,4 +194,6 @@
 
 <img src="https://raw.githubusercontent.com/ms1034/ms1034/output/snake.svg" alt="Snake animation" />
 
+<h3 align="left">Dev Card</h3>
+<a href="https://app.daily.dev/muhammadsubhan"><img src="./devcard.png" width="356" alt="Muhammad Subhan's Dev Card"/></a>
 ###
