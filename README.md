@@ -195,4 +195,4 @@
 <img src="https://raw.githubusercontent.com/ms1034/ms1034/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Dev Card</h3>
-<a href="https://app.daily.dev/muhammadsubhan"><img src="./devcard.png" width="356" alt="Muhammad Subhan's Dev Card"/></a>
+<a href="https://app.daily.dev/muhammadsubhan"><img src="./devcard.png" width="652" alt="Muhammad Subhan's Dev Card"/></a>
